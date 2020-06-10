@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<img src="header.jpg" width="990">  </img>
+<img src="head.jpg" width="990">  </img>
+<div class="you">
+<img src="umar.jpg"width="700">  </img> 
+   </div>
+    </head>
+    <body>
+    <br><br>
+<div class="hey">  
+Hey, I'M
+<div class="gh">UMAR <br>
+Here's what I've done so far.
+<br>
+<img src="umar2.jpg"width="700">  </img><br>
+<img src="corona1.jpg"width="700">  </img><br>
+<img src="corona2.jpg"width="700">  </img><br>
+<img src="coffee.jpg"width="700">  </img><br>
+<img src="earth.jpg"width="700">  </img><br>
+</div>
+<br>
+<hr>
+<div class="social">
+<img src="social2.gif" width="140">  </img>
+       
+<a href="http://www.instagram.com/muhammadumartariqmalik">
+    <img src="insta.png" width="140">  </img>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100047595735864">
+    <img src="face.png" width="140">  </img>
+</a>
+<a href="http://api.whatsapp.com/send?phone=923121484613">  
+     <img src="whats.png" width="140">  </img>
+</a>
+<a href="https://twitter.com/Muhamma48871626?s=09">
+     <img src="tw.png" width="140">  </img>
+</a>
+<a href="https://join.skype.com/invite/s1dlQoXzaHWh">
+     <img src="skype.png" width="140">  </img>
+</a>
+</div>
+<hr>
+    </body> 
+</html>
